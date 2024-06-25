@@ -1,6 +1,3 @@
-Certainly! Below is a basic template for a README file for an Autonomous Navigation System project. You can tailor it further based on your specific project details and requirements.
-
----
 
 # Autonomous Navigation System
 
@@ -70,6 +67,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - YOLOv4 model implementation based on [Darknet](https://github.com/AlexeyAB/darknet).
 - Path planning algorithms inspired by [Robot Operating System (ROS)](https://www.ros.org/).
 
----
 
-Feel free to expand sections like "Features" and "Configuration" based on your project's specific functionalities, robotic platform, and setup requirements. Adjust the links and references under "Acknowledgments" to credit any other libraries, frameworks, or resources you've used in your project.
